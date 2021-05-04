@@ -140,9 +140,36 @@ Taxed as intererst income not capital gains
   - REIT's
 - Stocks and bonds
   - Explain bonds in human terms
-  - Explain stocks in human terms
+    - Long term play
+    -
 
-## Companies
+  - Explain stocks in human terms
+    - Shaky ground sometimes
+    - Invest in the CEO and believe in what you invest in that way if you lose it all, you don't really mind as much because you put money into something and someone people and yourself care about
+
+    - Betterment
+      - Best roboadvisor out there
+    - Acrons
+      - Based in the UK, may be better option for overseas
+
+    - Not sure how international investments work
+
+  Stripe Atlas for setting up company
+  Invest as a company
+
+## Setting up a company
+
+Varies widely on a state by state basis. Good to make special note of taxes that are due for a certain state.
+
+## Credit Checks
+
+### Soft
+
+### Hard
+
+### Company structure
+
+## Working at a company
 
 ### Bigger companies
 
@@ -181,3 +208,4 @@ Taxed as intererst income not capital gains
 
 - Unimportant shares
 - Vesting cliffs that don't make sense
+
