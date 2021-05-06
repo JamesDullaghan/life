@@ -11,29 +11,19 @@ This may not apply across the board and there may be differences between males a
 ### Moving to an apartment
 
 #### Storage
+
+- Getting a storage unit
+- Getting a lock for the storage unit that can't be cut if the facility provides one
+- Getting insurance through renters insurance for a storage unit
+  - Coverage on the unit is sometimes less than you want covered
+- Understanding rental terms for units
+
 #### General pitfalls
-#### Different City
+
+- Expensive
+- Make sure lease terms are flexible
 
 ### Moving into a house
-
-### Dealing with people with mental illness
-
-- Very difficult
-- Make sure they have adequate resources to manage themselves
-- Distance when needed and make sure to leave if they get out of hand before anything gets rough
-
-#### Getting a therapist
-
-Men vs Women
-
-  - Sometimes never works for men
-  - Mostly works for women, need to feel heard
-  -
-
-#### Helping people get on medication
-
-- It is very hard to do
-- Mental illness has become so prevalent in the United States and no one knows why?
 
 ## Boring Stuff
 
@@ -209,3 +199,25 @@ Varies widely on a state by state basis. Good to make special note of taxes that
 - Unimportant shares
 - Vesting cliffs that don't make sense
 
+### General Knowledge around fixing cars
+
+#### How to change oil
+#### How to take a car to get tires changed
+#### How to call roadside assistance
+#### How to fix a flat tire and change a flat with a spare
+#### How to change headlight bulbs if it's easy
+#### How to change a battery if it's easy (negative and positive)
+
+### General Knowledge around houses
+
+#### How to reset breakers and know where the breaker box is
+#### Main water shutoff valve for the house
+#### How to unblock a toilet
+#### How to fix a broken toilet chain
+#### How to hang a tv
+
+### General Craftsmanship and Tools
+
+#### How to cut a piece of wood
+#### How to wash a car
+#### How to wash wheels
