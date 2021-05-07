@@ -2,13 +2,47 @@
 
 Over the course of time and having hyperthymesia, I have run into so many different obstacles and industries that are required to learn as to not get hoodwinked.
 
-This may not apply across the board and there may be differences between males and females but some of these chapters
+This may not apply across the board and there may be differences between males and females but some of these chapters are applicable to all.
 
 ### Table of Contents
 
-## General Life
+# General Life
 
-### Moving to an apartment
+## Auto Insurance
+
+Different levels of coverage
+
+Usually coverage is presented in the form of Bodily/Accident/Property in the form of XX/XX/XX where XX is a dollar amount of coverage
+
+Car insurance companies also provide a deductible amount for comprehensive and collision where your car and the other persons car is covered (property as well, see above).
+
+More about workers comp
+
+### Personal Injury Protection
+
+There is also something called personal injury protection which is
+
+### Rental Re-imbursement Coverage
+
+Rental re-imbursement is extra coverage and sometimes not included in a basic quote from an auto insurance company. Ask about rental re-imbursement if you need to rent a car after an accident or something similar.
+
+$40/day
+
+## Health Insurance
+
+Different plans, different levels of coverage, covered california and marketplace exchanges, etc.
+
+### Exchanges
+
+### Different levels of coverage
+
+### Deductibles explained
+
+### Cov
+
+## Moving
+
+Apartments are relatively easy and are different per complex and property management company.
 
 #### Storage
 
@@ -26,8 +60,6 @@ This may not apply across the board and there may be differences between males a
 ### Moving into a house
 
 ## Boring Stuff
-
-
 
 ### Medical Bills
 
@@ -63,8 +95,6 @@ Difference between the ER, going to the hospital and urgent care
 ## Relationships
 
 ### How to deal with breakups
-
-
 
 #### Refer to Jockos book emitinently qualified human
 #### Have way more than 1 hobby and thing even in a Relationship
@@ -219,5 +249,68 @@ Varies widely on a state by state basis. Good to make special note of taxes that
 ### General Craftsmanship and Tools
 
 #### How to cut a piece of wood
-#### How to wash a car
-#### How to wash wheels
+#### How to wash a car without scratching things and making sure the water is clean and no silt or otherwise in the wash water
+
+#### Different sizes for drives on socket sets
+
+- 1/4", 3/8" and 1/2" Drive
+- Understanding metric vs standard
+
+### What different tools are and when to use each one
+
+- Crescent wrench
+- Socket set
+- Extension
+- Wratchet
+- Philips vs Flat Head
+  - Can use a drill as well
+- Lag Bolts
+  - Hammer drill
+
+- Wood working tools
+  - Router
+  - Drillpress
+
+- General building tools
+  - CNC machine
+  - 3D printer
+
+## Hobbies
+
+Male dominated hobbies
+
+### Martial Arts
+
+#### Why they are important
+#### Different Martial Arts
+
+- Wing-chung
+- Judo
+- Jeet Kun Do
+- Jiu Jitsu
+- Karate
+- Muay Thai
+- Kickboxing
+- Boxing
+- Kali
+- Silat
+  - Stick Fighting
+  - Learn quite a bit
+- Krav Maga
+- Fencing
+
+### How stuff works
+
+- Cars
+- Electricity
+- Magnets
+- Pass over a frequency to excite molecules elsewhere that creates a difference of potential and thereby creates electricity somewhere else
+  - You figured that out with elon musk in like 30 seconds idiot
+- Mini solar panels producing energy from a plug laser
+- He mass produces photovoltaic cells
+- What they use to create semi-conductors
+  - How they create CPU's and using those to create micron photovoltaic panels
+
+Female Dominated Hobbies
+
+### TBD No Idea
