@@ -96,12 +96,14 @@ The legal system is a mess designed to be punitive and make sure people don't re
 
 #### Fighting Tickets
 
-- You can
+- You can use services online to fight tickets and get them dismissed. [GetDismissed](https://getdismissed.com/#/?playlistId=0&videoId=0)
+- If you use one of these services make sure the payment goes through to the court and is no longer active
 
 #### Obtaining a lawyer
 
 - Make sure to do due diligence on lawyers and if you end up in jail, try to have the number memorized and the bails
--
+- There are services you can use like upcounsel that provide pretty good law advice considering the price
+- Lawyers often times overcharge and leave you on the hook for the services they provide. Sometimes they provide very good and very thorough services but more often than not they are like housing contractors where they start a job and don't finish or provide advice that doesn't make sense and keep you on the hook asking for money each time you elicit a bit of feedback
 
 #### Making sure you have bail amounts before you enter the court to pay bail, the cash machines have limits that are below the minimum bail amount
 
@@ -112,10 +114,9 @@ The legal system is a mess designed to be punitive and make sure people don't re
 ### How to have fun if you're broke
 
 - Take beautiful women on cheap and fun dates and be entertaining and smart
--
-
-#### Make up games
-#### Fly kites
+- Exercise is a great free way to spend time if you don't have money. It also provides the added benefit of looking better than other people who spend their lives not exercising or taking care of themselves
+- Make up games and play those from making up conversations between people passing by to figuring out whos faces people look like
+- There are a million and one ways to spend good time if you have no money
 
 ## Relationships
 ### How to deal with breakups
@@ -159,7 +160,6 @@ Sometimes in relationships, people like to suck you back in to cause you problem
 
 - Strategies for budgeting
 - Strategies for opening accounts
--
 
 ### Debt
 
@@ -197,8 +197,6 @@ Taxed as intererst income not capital gains
 - Stocks and bonds
   - Explain bonds in human terms
     - Long term play
-    -
-
   - Explain stocks in human terms
     - Shaky ground sometimes
     - Invest in the CEO and believe in what you invest in that way if you lose it all, you don't really mind as much because you put money into something and someone people and yourself care about
