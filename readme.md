@@ -221,9 +221,25 @@ Varies widely on a state by state basis. Good to make special note of taxes that
 
 ### Soft
 
+Do soft credit checks to avoid getting your credit score hurt at all. There are a number of agencies that do this for free and you can use a service like credit karma that has up to date credit reporting information if you need it!
+
+[Credit Karma](http://creditkarma.com/)
+
 ### Hard
 
+Hard inquiries are not good overall for your credit score and each inquiry will cause your credit score to drop a bit.
+
 ### Company structure
+
+This is an entire chapter in itself but there are a number of ways people structure companies depending on the type of company they want to build.
+
+#### Sole Prop/Single Member LLC
+
+#### SCorp
+
+#### Multi Member LLC
+
+#### Foreign Entities/Delaware Corporations
 
 ## Working at a company
 
@@ -244,8 +260,8 @@ As far as work and leadership goes, refer to Jocko Willinks books:
 
 #### Different types of equity
 
-- ISO
-- NSO
+- ISO - Stocks or shares that are granted as good will before there is significant equity behind the company. As money is raised, these shares can be diluted and can be absolutely worthless to people who spend a lot of energy and effort in startup companies!
+- NSO - Stocks that are granted after a company has become pretty big
 
 #### Good equity deals
 
